@@ -1,0 +1,1 @@
+# django_vercel_stripe_eg
